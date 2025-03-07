@@ -47,7 +47,7 @@ Al ejecutar el programa, se solicitará elegir entre **cifrar o descifrar un men
 4. Se mostrará el texto cifrado en formato binario, por ejemplo:  
 
    ```
-   001110 011001 010100 000000
+   001110011001010100000000
    ```
 
 ### **Ejemplo de descifrado**  
@@ -57,7 +57,7 @@ Al ejecutar el programa, se solicitará elegir entre **cifrar o descifrar un men
 3. Ingresar la cadena cifrada:  
 
    ```
-   001110 011001 010100 000000
+   001110011001010100000000
    ```
 
 4. Se mostrará el texto descifrado:  
